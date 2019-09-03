@@ -14,6 +14,10 @@ The benefit of Python over Java also is that it's a lot easier to read, and ther
 
 This is an incredibly popular book, known by many in the computer science realm. My job isn't to advertise it. Besides, I've already ended up buying 3 copies as it's been too heavy to bring with my each time I've relocated to a new country, so I feel like I've done enough on that front ;) . But for reference sake, I am using the 6th edition of the book which can be found on Amazon [here](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850). (no that's not a referral link T_T)
 
+## Contents
+
+* Chapter 1 | Arrays and Lists | [[here](https://github.com/KeirSimmons/cracking-the-coding-interview/tree/master/arrays_strings)]
+
 ## Contributions
 
 If you have suggestions, or bug fixes for *existing* solutions, please feel free to open a PR and I'll take a look :) .
